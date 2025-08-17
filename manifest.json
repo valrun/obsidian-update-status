@@ -1,5 +1,5 @@
 {
-  "id": "obsidian-update-status",
+  "id": "update-status",
   "name": "Update Status for Kanban",
   "version": "1.0.0",
   "minAppVersion": "1.8.10",

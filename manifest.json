@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-update-status",
+  "name": "Update Status for Kanban",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Automate task status tracking for Kanban",
+  "author": "valrun",
+  "authorUrl": "github.com/valrun",
+  "isDesktopOnly": false
+}
